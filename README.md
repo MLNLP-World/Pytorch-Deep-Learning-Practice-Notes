@@ -68,7 +68,7 @@ PyTorch是一个基于Torch的Python的开源机器学习框架，其具有强�
 
 | 章节| 视频  | 笔记   |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.引言  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=1">  <img src="./imgs/cover/01.png"  width="170" /></a> | [计算图](./notes/00_%E8%AE%A1%E7%AE%97%E5%9B%BE.md) |
+| 1.引言  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=1">  <img src="./imgs/cover/01.png"  width="170" /></a> | [计算图](./notes/01_计算图.md) |
 |  2.线性模型     | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=2">  <img src="./imgs/cover/02.png"  width="170" /></a>   |  |
 | 3.梯度下降法  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=3">  <img src="./imgs/cover/03.png"  width="170" /></a> | [梯度下降法](./notes/03_梯度下降法.md)|
 | 4.反向传播   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=4">  <img src="./imgs/cover/04.png"  width="170" /></a> | |
