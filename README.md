@@ -66,21 +66,21 @@ PyTorch是一个基于Torch的Python的开源机器学习框架，其具有强�
 
 ## <img src="./imgs/icon/notes.png" width="25" />笔记
 
-| 章节| 视频  | 笔记   |
-| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.引言  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=1">  <img src="./imgs/cover/01.png"  width="170" /></a> | [计算图](./notes/01_计算图.md) |
+| 章节| 视频  | 笔记   | 代码 |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- |
+| 1.引言  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=1">  <img src="./imgs/cover/01.png"  width="170" /></a> | [计算图](./notes/01_计算图.md) |  |
 |  2.线性模型     | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=2">  <img src="./imgs/cover/02.png"  width="170" /></a>   |  |
-| 3.梯度下降法  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=3">  <img src="./imgs/cover/03.png"  width="170" /></a> | [梯度下降法](./notes/03_梯度下降法.md)|
-| 4.反向传播   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=4">  <img src="./imgs/cover/04.png"  width="170" /></a> | |
-| 5.Pytorch实现线性回归   |<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=5">  <img src="./imgs/cover/05.png"  width="170" /></a>  | [PyTorch实现线性回归](./notes/05_线性回归.md) |
-| 6.逻辑斯蒂回归 | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=6">  <img src="./imgs/cover/06.png"  width="170" /></a>  | [逻辑斯蒂回归](./notes/06_逻辑斯蒂回归.md) |
-| 7.处理多维特征的输入   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=7">  <img src="./imgs/cover/07.png"  width="170" /></a>  | | 
-| 8.加载数据集   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=8">  <img src="./imgs/cover/08.png"  width="170" /></a>  |  [加载数据集](./notes/08_加载数据集.md) |
-| 9.多分类问题 |<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=9">  <img src="./imgs/cover/09.png"  width="170" /></a>|[多分类问题](./notes/09_多分类问题.md)|
-|10.卷积神经网络（基础篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=10">  <img src="./imgs/cover/10.png"  width="170" /></a>|[卷积神经网络（基础篇）](./notes/10_卷积神经网络.md)|
-|11.卷积神经网络（高级篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=11">  <img src="./imgs/cover/11.png"  width="170" /></a>|[卷积神经网络（高级篇）](./notes/11_卷积神经网络(高级).md)|
-|12.循环神经网络（基础篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=12">  <img src="./imgs/cover/12.png"  width="170" /></a>|[循环神经网络（基础篇）](./notes/12_循环神经网络.md)|
-|13.循环神经网络（高级篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=13">  <img src="./imgs/cover/13.png"  width="170" /></a>|[循环神经网络（高级篇）](./notes/13_循环神经网络(高级).md)|
+| 3.梯度下降法  | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=3">  <img src="./imgs/cover/03.png"  width="170" /></a> | [梯度下降法](./notes/03_梯度下降法.md)| |
+| 4.反向传播   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=4">  <img src="./imgs/cover/04.png"  width="170" /></a> | | |
+| 5.Pytorch实现线性回归   |<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=5">  <img src="./imgs/cover/05.png"  width="170" /></a>  | [PyTorch实现线性回归](./notes/05_线性回归.md) | [PyTorch实现线性回归](./codes/05_线性回归.md)  |
+| 6.逻辑斯蒂回归 | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=6">  <img src="./imgs/cover/06.png"  width="170" /></a>  | [逻辑斯蒂回归](./notes/06_逻辑斯蒂回归.md) | [逻辑斯蒂回归](./codes/06_逻辑斯蒂回归.md)|
+| 7.处理多维特征的输入   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=7">  <img src="./imgs/cover/07.png"  width="170" /></a>  | |  |
+| 8.加载数据集   | <a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=8">  <img src="./imgs/cover/08.png"  width="170" /></a>  |  [加载数据集](./notes/08_加载数据集.md) |[加载数据集](./codes/08_加载数据集.md) |
+| 9.多分类问题 |<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=9">  <img src="./imgs/cover/09.png"  width="170" /></a>|[多分类问题](./notes/09_多分类问题.md)|[多分类问题](./codes/09_多分类问题.md) |
+|10.卷积神经网络（基础篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=10">  <img src="./imgs/cover/10.png"  width="170" /></a>|[卷积神经网络（基础篇）](./notes/10_卷积神经网络.md)| [卷积神经网络（基础篇）](./codes/10_卷积神经网络.md)|
+|11.卷积神经网络（高级篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=11">  <img src="./imgs/cover/11.png"  width="170" /></a>|[卷积神经网络（高级篇）](./notes/11_卷积神经网络(高级).md)|[卷积神经网络（高级篇）](./codes/11_卷积神经网络(高级).md) |
+|12.循环神经网络（基础篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=12">  <img src="./imgs/cover/12.png"  width="170" /></a>|[循环神经网络（基础篇）](./notes/12_循环神经网络.md)|[循环神经网络（基础篇）](./codes/12_循环神经网络.md) |
+|13.循环神经网络（高级篇）|<a href="https://www.bilibili.com/video/BV1Y7411d7Ys?p=13">  <img src="./imgs/cover/13.png"  width="170" /></a>|[循环神经网络（高级篇）](./notes/13_循环神经网络(高级).md)|[循环神经网络（高级篇）](./codes/13_循环神经网络(高级).md) |
 
 
 
@@ -90,6 +90,7 @@ PyTorch是一个基于Torch的Python的开源机器学习框架，其具有强�
 
 - **notes**: 笔记
 - **imgs**：项目中的图片
+- **codes**：代码
 
 
 ## <img src="./imgs/icon/organizer.png" width="25" />组织者
