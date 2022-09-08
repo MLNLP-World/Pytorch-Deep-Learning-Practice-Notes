@@ -13,14 +13,14 @@
   <a >
        <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
-   	<a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice/stargazers">
-       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Pytorch-Deep-Learning-Practice" />
+   	<a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes" />
   	</a>
-  	<a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Pytorch-Deep-Learning-Practice?color=FF8000" />
+  	<a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes?color=FF8000" />
   	</a>
-    <a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/Pytorch-Deep-Learning-Practice?color=0088ff"/>
+    <a href="https://github.com/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/Pytorch-Deep-Learning-Practice-Notes?color=0088ff"/>
     </a>
     <br />
 </p>
@@ -28,9 +28,9 @@
 <div align="center">
 <p align="center">
   <a href="#项目动机">项目动机</a>/
-  <a href="#项目简介">项目简介</a>/
+  <a href="#项目简介">课程简介</a>/
   <a href="#参考资源">参考资源</a>/
-  <a href="#目录">目录</a>/
+  <a href="#目录">笔记</a>/
   <a href="#文件夹说明">文件夹说明</a>/
   <a href="#组织者">组织者</a>/
   <a href="#贡献者">贡献者</a>
