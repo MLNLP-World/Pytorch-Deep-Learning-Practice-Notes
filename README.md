@@ -28,7 +28,7 @@
 <div align="center">
 <p align="center">
   <a href="#项目动机">项目动机</a>/
-  <a href="#项目简介">课程简介</a>/
+  <a href="#课程简介">课程简介</a>/
   <a href="#参考资源">参考资源</a>/
   <a href="#笔记">笔记</a>/
   <a href="#文件夹说明">文件夹说明</a>/
